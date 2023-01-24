@@ -1,0 +1,15 @@
+/Users/pubudunikaralliyadde/Projects/ConditionalStatements/ConditionalStatements/obj/Debug/net7.0/ConditionalStatements.csproj.AssemblyReference.cache
+/Users/pubudunikaralliyadde/Projects/ConditionalStatements/ConditionalStatements/obj/Debug/net7.0/ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pubudunikaralliyadde/Projects/ConditionalStatements/ConditionalStatements/obj/Debug/net7.0/ConditionalStatements.AssemblyInfoInputs.cache
+/Users/pubudunikaralliyadde/Projects/ConditionalStatements/ConditionalStatements/obj/Debug/net7.0/ConditionalStatements.AssemblyInfo.cs
+/Users/pubudunikaralliyadde/Projects/ConditionalStatements/ConditionalStatements/obj/Debug/net7.0/ConditionalStatements.csproj.CoreCompileInputs.cache
+/Users/pubudunikaralliyadde/Projects/ConditionalStatements/ConditionalStatements/bin/Debug/net7.0/ConditionalStatements
+/Users/pubudunikaralliyadde/Projects/ConditionalStatements/ConditionalStatements/bin/Debug/net7.0/ConditionalStatements.deps.json
+/Users/pubudunikaralliyadde/Projects/ConditionalStatements/ConditionalStatements/bin/Debug/net7.0/ConditionalStatements.runtimeconfig.json
+/Users/pubudunikaralliyadde/Projects/ConditionalStatements/ConditionalStatements/bin/Debug/net7.0/ConditionalStatements.dll
+/Users/pubudunikaralliyadde/Projects/ConditionalStatements/ConditionalStatements/bin/Debug/net7.0/ConditionalStatements.pdb
+/Users/pubudunikaralliyadde/Projects/ConditionalStatements/ConditionalStatements/obj/Debug/net7.0/ConditionalStatements.dll
+/Users/pubudunikaralliyadde/Projects/ConditionalStatements/ConditionalStatements/obj/Debug/net7.0/refint/ConditionalStatements.dll
+/Users/pubudunikaralliyadde/Projects/ConditionalStatements/ConditionalStatements/obj/Debug/net7.0/ConditionalStatements.pdb
+/Users/pubudunikaralliyadde/Projects/ConditionalStatements/ConditionalStatements/obj/Debug/net7.0/ConditionalStatements.genruntimeconfig.cache
+/Users/pubudunikaralliyadde/Projects/ConditionalStatements/ConditionalStatements/obj/Debug/net7.0/ref/ConditionalStatements.dll
